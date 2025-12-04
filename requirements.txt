@@ -1,0 +1,11 @@
+json
+pandas
+requests
+csv
+tempfile
+whisper
+matplotlib
+seaborn
+squarify
+transformers
+torch
